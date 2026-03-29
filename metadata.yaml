@@ -1,6 +1,6 @@
 name: astrbot_plugin_sayorroll
 display_name: Sayoroll 随机选择
-desc: 一个简单的复读以及替你做决定的小玩意。
+desc: 一个简单的复读以及替你做决定的小玩意
 version: v1.0.0
 author: KanamiQwQ
 repo: https://github.com/kanamiQwQ/astrbot_plugin_sayorroll
