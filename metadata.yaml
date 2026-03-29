@@ -1,6 +1,6 @@
 name: astrbot_plugin_sayorroll
 display_name: Sayoroll 随机选择
-desc: 基于 AstrBot 的随机选择与概率测算插件，支持数字 Roll 点、多选项随机、正反问询以及概率测算，自带相似度防作弊机制。
+desc: 一个简单的复读以及替你做决定的小玩意。
 version: v1.0.0
 author: KanamiQwQ
-repo: https://github.com/KanamiQwQ/astrbot_plugin_sayorroll
+repo: https://github.com/kanamiQwQ/astrbot_plugin_sayorroll
